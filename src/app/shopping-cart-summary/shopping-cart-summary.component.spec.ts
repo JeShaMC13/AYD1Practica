@@ -23,7 +23,7 @@ describe('ShoppingCartSummaryComponent', () => {
     fixture.detectChanges();
   });
 
-  it('Componente Summary Component deberia ser creado, probando cosa', () => {
+  it('Componente Summary Component deberia ser creado, probando cosa fjasdlfjlasd', () => {
     expect(component).toBeTruthy();
   });
 
