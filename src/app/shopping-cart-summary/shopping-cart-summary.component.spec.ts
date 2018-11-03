@@ -27,7 +27,6 @@ describe('ShoppingCartSummaryComponent', () => {
     expect(component).toBeTruthy();
   });
 
- 
 
   
 });
