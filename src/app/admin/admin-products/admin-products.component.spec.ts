@@ -17,7 +17,7 @@ describe('AdminProductsComponent', () => {
   beforeEach(() => {
     service = new ProductService(null);
     component = new AdminProductsComponent(service);
-    component.products = [product];
+  
   });
 
   
