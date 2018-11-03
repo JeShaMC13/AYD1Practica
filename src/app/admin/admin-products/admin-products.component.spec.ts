@@ -20,12 +20,6 @@ describe('AdminProductsComponent', () => {
     component.products = [product];
   });
 
-  it('Deberia ser creado el componente', () => {
-    expect(service).toBeTruthy();
-    expect(component).toBeTruthy();
-  });
-
-
-
+  
 
 });
